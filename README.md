@@ -10,7 +10,13 @@ Maria asked me to re-analyze the school districts test scores after the first an
 
 ### - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ## - How does replacing the ninth-grade scores affect the following:
+
 ### Math and reading scores by grade
+
+![reading_score_by_grade](https://user-images.githubusercontent.com/64506842/95772751-1b5fcb80-0c72-11eb-929c-7a56f2cd5339.PNG)
+
+![math_scores_by_grade](https://user-images.githubusercontent.com/64506842/95772776-231f7000-0c72-11eb-89f4-0b93adb83abd.PNG)
+
 ### Scores by school spending
 
 ![School_Spending](https://user-images.githubusercontent.com/64506842/95701883-92a84780-0bff-11eb-9b9a-1a4c6311d91f.PNG)
@@ -31,3 +37,5 @@ Charter | 83.5 | 83.9 | 94 | 97 | 90
 District | 77.0 | 81.0 | 67 | 81 | 54
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+
