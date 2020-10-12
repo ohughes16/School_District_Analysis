@@ -36,6 +36,17 @@ Thomas High School remained as the school with the second highest overall passin
 
 ![reading_score_by_grade](https://user-images.githubusercontent.com/64506842/95772751-1b5fcb80-0c72-11eb-929c-7a56f2cd5339.PNG) ![math_scores_by_grade](https://user-images.githubusercontent.com/64506842/95772776-231f7000-0c72-11eb-89f4-0b93adb83abd.PNG)
 
+9th grade student averages for the school district went from: 
+  - 9th grade reading average: 82.513
+  - 9th grade math average: 80.352
+
+to 
+
+  - 9th grade reading average: 82.426
+  - 9th grade math average: 80.120
+  
+By removing the Thomas High School scores, the average math and reading scores for 9th graders in the district both decreased.
+
 ### Scores by school spending
 
 **Before 9th grade THS scores were removed**
