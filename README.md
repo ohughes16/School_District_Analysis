@@ -24,7 +24,13 @@ School summary before THS 9th grade scores were removed
 
 School summary after THS 9th grade scores were removed
 
+![School_Ranking_After](https://user-images.githubusercontent.com/64506842/95777002-36ced480-0c7a-11eb-8afd-ea36e48cde64.png)
+
+As you can see, Thomas High School remains as the school with the second highest overall percentage passing, however, removing the 9th graders scores decreased the overall passing percentage by 0.32%. With a School that has 1,635 students, that is a decrease in 52 students passing vs not passing.
+
 ### - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+Thomas High School remained as the school with the second highest overall passing percentage when compared to other schools.
 
 ## - How does replacing the ninth-grade scores affect the following:
 
@@ -32,15 +38,11 @@ School summary after THS 9th grade scores were removed
 
 **Before 9th grade THS scores removed**
 
-![ReadingScores_by_School_andGrade](https://user-images.githubusercontent.com/64506842/95773389-3aab2880-0c73-11eb-8320-1c4dc0d2c213.PNG)
-
-![MathScores_by_School_andGrade](https://user-images.githubusercontent.com/64506842/95773398-40a10980-0c73-11eb-878f-c2b2ff8088e7.PNG)
+![ReadingScores_by_School_andGrade](https://user-images.githubusercontent.com/64506842/95773389-3aab2880-0c73-11eb-8320-1c4dc0d2c213.PNG) ![MathScores_by_School_andGrade](https://user-images.githubusercontent.com/64506842/95773398-40a10980-0c73-11eb-878f-c2b2ff8088e7.PNG)
 
 **After 9th grade THS scores removed**
 
-![reading_score_by_grade](https://user-images.githubusercontent.com/64506842/95772751-1b5fcb80-0c72-11eb-929c-7a56f2cd5339.PNG)
-
-![math_scores_by_grade](https://user-images.githubusercontent.com/64506842/95772776-231f7000-0c72-11eb-89f4-0b93adb83abd.PNG)
+![reading_score_by_grade](https://user-images.githubusercontent.com/64506842/95772751-1b5fcb80-0c72-11eb-929c-7a56f2cd5339.PNG) ![math_scores_by_grade](https://user-images.githubusercontent.com/64506842/95772776-231f7000-0c72-11eb-89f4-0b93adb83abd.PNG)
 
 ### Scores by school spending
 
