@@ -19,7 +19,13 @@ As you can see in the above before and after visualizations of the district summ
 
 ### - How is the school summary affected?
 
+School summary before THS 9th grade scores were removed
+![School_Ranking_Before](https://user-images.githubusercontent.com/64506842/95776690-ab554380-0c79-11eb-9bde-f6b37e096d3b.png)
+
+School summary after THS 9th grade scores were removed
+
 ### - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 ## - How does replacing the ninth-grade scores affect the following:
 
 ### Math and reading scores by grade
