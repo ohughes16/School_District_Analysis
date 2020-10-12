@@ -6,6 +6,15 @@ Maria asked me to re-analyze the school districts test scores after the first an
 ## Results: 
 
 ### - How is the district summary affected?
+
+District Summary before removing 9th grade THS scores
+
+![District_summary_before](https://user-images.githubusercontent.com/64506842/95774538-721ad480-0c75-11eb-906f-99d3b69e827b.PNG)
+
+District summary after removing 9th grade THS scores
+
+![District_summary_after](https://user-images.githubusercontent.com/64506842/95774539-72b36b00-0c75-11eb-9ab6-9e536aa5cebf.PNG)
+
 ### - How is the school summary affected?
 
 ### - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
