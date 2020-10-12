@@ -57,6 +57,8 @@ By removing the Thomas High School scores, the average math and reading scores f
 
 ![School_Spending](https://user-images.githubusercontent.com/64506842/95701883-92a84780-0bff-11eb-9b9a-1a4c6311d91f.PNG)
 
+Spending by school was unaffected by this analysis. Thomas High School's budget per student was not changed by this analysis, only the average test scores and passing percentages.
+
 ### Scores by school size
 
 ![Schools_by_size_before](https://user-images.githubusercontent.com/64506842/95777917-ef494800-0c7b-11eb-95d7-dcfa07c0ebad.PNG) ![Schools_by_size_after](https://user-images.githubusercontent.com/64506842/95777919-efe1de80-0c7b-11eb-9ba9-d780078bae2b.PNG)
@@ -78,3 +80,6 @@ As you can see in the above before and after visualizations of the district summ
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 In summary, removing the reading and math scores of the 9th grade Thomas High School Students from the School District Analysis affected the percentages of students passing reading, math, and overall passing percentage for Thomas High School. It didn't affect Thomas High School's standing when compared to other schools, but it did affect the school's passing percentage by 0.32% which results in a decrease of 52 students passing for a school that size. 
+
+Removing the Thomas High School reading and math scores also decreased the average reading and math scores for the 9th grade cohort for the district by 0.09 (reading) and 0.232 (math). 
+
