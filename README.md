@@ -15,7 +15,7 @@ District summary after removing 9th grade THS scores
 
 ![District_summary_after](https://user-images.githubusercontent.com/64506842/95774931-3d5b4d00-0c76-11eb-9266-ec62a0836a8f.PNG)
 
-As you can see in the above before and after visualizations of the district summary, there was no change after removing the 9th grade Thomas High School math and reading scores. Thomas High School is a Charter school, so we would be looking for an increase or decrease in the passing percentages, or average scores for the Charter Schools. 
+As you can see in the above before and after visualizations of the district summary, there was little change after removing the 9th grade Thomas High School math and reading scores. Thomas High School is a Charter school, so we would be looking for an increase or decrease in the passing percentages, or average scores for the Charter Schools. The overall math_score average decreased by 0.008 and the reading_score average increased by 0.005894 after the Thomas High School 9th graders were removed from the analysis. The overall passing percentage for Charter schools decreased by 0.04%. 
 
 ### - How is the school summary affected?
 
