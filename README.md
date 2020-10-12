@@ -28,9 +28,11 @@ Maria asked me to re-analyze the school districts test scores after the first an
 ### Scores by school spending
 
 **Before 9th grade THS scores were removed**
+
 ![School_Spending_Before](https://user-images.githubusercontent.com/64506842/95773647-ba38f780-0c73-11eb-808f-55e789c78602.PNG)
 
 **After 9th grade THS scores were removed**
+
 ![School_Spending](https://user-images.githubusercontent.com/64506842/95701883-92a84780-0bff-11eb-9b9a-1a4c6311d91f.PNG)
 
 ### Scores by school size
