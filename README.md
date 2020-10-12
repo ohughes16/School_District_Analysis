@@ -13,12 +13,24 @@ Maria asked me to re-analyze the school districts test scores after the first an
 
 ### Math and reading scores by grade
 
+**Before 9th grade THS scores removed**
+
+![ReadingScores_by_School_andGrade](https://user-images.githubusercontent.com/64506842/95773389-3aab2880-0c73-11eb-8320-1c4dc0d2c213.PNG)
+
+![MathScores_by_School_andGrade](https://user-images.githubusercontent.com/64506842/95773398-40a10980-0c73-11eb-878f-c2b2ff8088e7.PNG)
+
+**After 9th grade THS scores removed**
+
 ![reading_score_by_grade](https://user-images.githubusercontent.com/64506842/95772751-1b5fcb80-0c72-11eb-929c-7a56f2cd5339.PNG)
 
 ![math_scores_by_grade](https://user-images.githubusercontent.com/64506842/95772776-231f7000-0c72-11eb-89f4-0b93adb83abd.PNG)
 
 ### Scores by school spending
 
+**Before 9th grade THS scores were removed**
+![School_Spending_Before](https://user-images.githubusercontent.com/64506842/95773647-ba38f780-0c73-11eb-808f-55e789c78602.PNG)
+
+**After 9th grade THS scores were removed**
 ![School_Spending](https://user-images.githubusercontent.com/64506842/95701883-92a84780-0bff-11eb-9b9a-1a4c6311d91f.PNG)
 
 ### Scores by school size
